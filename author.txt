@@ -1,7 +1,6 @@
 Rémy Chardon
 axel bernat
-Thibaud Van den Berghe
 Younes MELHEB 
 Charles Tubeuf
 Salim Tazi
-test axel
+test axel 1
