@@ -1,9 +1,9 @@
 Rémy Chardon
 axel bernat
 Younes MELHEB 
-<<<<<<< HEAD
 Rémi Poyatos
-=======
 Charles Tubeuf
 Salim Tazi
->>>>>>> c68961c0e27a571db73c313b2ef3e9c6844db4a9
+Thibaud Van den Berghe
+modif axel
+
